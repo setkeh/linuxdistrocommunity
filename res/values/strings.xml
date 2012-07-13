@@ -1,0 +1,18 @@
+<resources>
+	<string name="app_name">Linux Distro Community</string>
+	<string name="website">Website</string>
+	<string name="website_summary">Tap here to go to the Linux Distro Community Website</string>
+	<string name="website_url">http://linuxdistrocommunity.com</string>
+	<string name="irc">IRC</string>
+	<string name="irc_summary">Tap here to join the Linux Distro Community IRC Chat</string>
+	<string name="irc_url">http://webchat.freenode.net/?channels=linuxdistrocommunity</string>
+	<string name="forums">Forums</string>
+	<string name="forums_summary">Tap here to go to the Linux Distro Community Forums</string>
+	<string name="forums_url">http://linuxdistrocommunity.com/forums/index.php</string>
+	<string name="mumble_viewer">Live Mumble Viewer</string>
+	<string name="mumble_viewer_summary">Tap here to see who\'s on the Linux Distro Community Mumble Server</string>
+	<string name="mumble_viewer_url">http://linuxdistrocommunity.com/live.html</string>
+	<string name="contact">Contact</string>
+	<string name="contact_summary">Tap here to contact the Linux Distro Community</string>
+	<string name="contact_url">http://linuxdistrocommunity.com/contact.html</string>
+</resources>

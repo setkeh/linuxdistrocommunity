@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<Preference
+		android:key="website"
+		android:title="@string/website"
+		android:summary="@string/website_summary"/>
+	<Preference
+		android:key="irc"
+		android:title="@string/irc"
+		android:summary="@string/irc_summary"/>
+	<Preference
+		android:key="forums"
+		android:title="@string/forums"
+		android:summary="@string/forums_summary"/>
+	<Preference
+		android:key="mumble_viewer"
+		android:title="@string/mumble_viewer"
+		android:summary="@string/mumble_viewer_summary"/>
+	<Preference
+		android:key="contact"
+		android:title="@string/contact"
+		android:summary="@string/contact_summary"/>
+</PreferenceScreen>
