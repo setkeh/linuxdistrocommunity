@@ -12,8 +12,6 @@ public class MainActivity extends PreferenceActivity {
 		addPreferencesFromResource(R.xml.main);
 		findPreference("website").setIntent(new Intent(Intent.ACTION_VIEW,
 				Uri.parse(getString(R.string.website_url))));
-		findPreference("irc").setIntent(new Intent(Intent.ACTION_VIEW,
-				Uri.parse(getString(R.string.irc_url))));
 		findPreference("forums").setIntent(new Intent(Intent.ACTION_VIEW,
 				Uri.parse(getString(R.string.forums_url))));
 		findPreference("mumble_viewer").setIntent(new Intent(Intent.ACTION_VIEW,
