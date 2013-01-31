@@ -5,7 +5,7 @@
 	<string name="website_url">http://linuxdistrocommunity.com</string>
 	<string name="irc">IRC</string>
 	<string name="irc_summary">Tap here to join the Linux Distro Community IRC Chat</string>
-	<string name="irc_url">http://webchat.freenode.net/?channels=linuxdistrocommunity</string>
+	<string name="irc_url">https://webchat.freenode.net/?channels=linuxdistrocommunity</string>
 	<string name="forums">Forums</string>
 	<string name="forums_summary">Tap here to go to the Linux Distro Community Forums</string>
 	<string name="forums_url">http://linuxdistrocommunity.com/forums/index.php</string>
